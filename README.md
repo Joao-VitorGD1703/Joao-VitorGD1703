@@ -4,6 +4,7 @@
 - 🌱 Estudante de Front-end e Back-end, com ênfase em Java.
 - ⚡ Minha meta por hora é aumentar minha gama de conhecimento.
 - 📫 Como me contatar: ... a ser planejado.
+- 🤩 Link do projeto destaque: https://john-dsmovie.netlify.app/ 
 
 <div align="center">
   <a href="https://github.com/Joao-VitorGD1703">
