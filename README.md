@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho desenvolvendo projetos que possam aumentar as minhas skils como programador.
 - 🌱 Estudante de Front-end e Back-end, com ênfase em Java.
 - ⚡ Minha meta por hora é aumentar minha gama de conhecimento.
-- 📫 Como me contatar: ... a ser planejado.
+- 📫 Como me contatar: ... joaoguimaraesofficial@gmail.com.br .
 - 🤩 Link do projeto destaque: https://john-dsmovie.netlify.app/ 
 - Certificado da Spring React: https://learn.devsuperior.com/certificados/2148648
 
